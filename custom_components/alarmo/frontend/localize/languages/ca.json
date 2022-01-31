@@ -498,7 +498,7 @@
             },
             "delete": {
               "heading": "Delete automation",
-              "description": "Permanently remove this automation"
+              "description": "Elimineu definitivament aquesta automatització"
             }
           },
           "actions": {
@@ -528,7 +528,7 @@
             "action": {
               "heading": "Acció",
               "description": "Acció a realitzar a l'entitat",
-              "no_common_actions": "Actions can only be assigned in YAML mode for the selected entities."
+              "no_common_actions": "Les accions només es poden assignar en mode YAML per a les entitats seleccionades."
             },
             "name": {
               "heading": "Nom",
