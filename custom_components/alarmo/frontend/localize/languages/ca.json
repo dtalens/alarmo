@@ -24,8 +24,8 @@
     },
     "table": {
       "filter": {
-        "label": "Filter items",
-        "item": "Filter by {name}",
+        "label": "Fitra ítems",
+        "item": "Filtra per {name}",
         "hidden_items": "{number} {number, plural,\n  one {item is}\n  other {items are}\n} hidden"
       }
     }
@@ -458,14 +458,14 @@
             "message": {
               "heading": "Missatge",
               "description": "Contingut del missatge de notificació",
-              "insert_wildcard": "Insert wildcard",
+              "insert_wildcard": "Insereix un comodí",
               "placeholders": {
-                "armed": "The alarm is set to {{arm_mode}}",
-                "disarmed": "The alarm is now OFF",
-                "triggered": "The alarm is triggered! Cause: {{open_sensors}}.",
-                "arm_failure": "The alarm could not be armed right now, due to: {{open_sensors}}.",
-                "arming": "The alarm will be armed soon, please leave the house.",
-                "pending": "The alarm is about to trigger, disarm it quickly!"
+                "armed": "L'alarma està configurada en {{arm_mode}}",
+                "disarmed": "La alarma s'ha desactivat",
+                "triggered": "S'ha disparat l'alarma! Causa: {{open_sensors}}.",
+                "arm_failure": "L'alarma no s'ha pogut engegar a causa de: {{open_sensors}}.",
+                "arming": "L'alarma s'activarà aviat, si us plau, sortiu de casa.",
+                "pending": "L'alarma està a punt de disparar-se, desactiva-la ràpidament!"
               }
             },
             "open_sensors_format": {
